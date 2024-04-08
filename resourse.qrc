@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Images/member.png</file>
+    <file>Images/load.png</file>
+    <file>Images/open-book.png</file>
+    <file>Images/log out.png</file>
+    <file>Images/Bell icon.png</file>
+    <file>Images/logo.png</file>
+    <file>Images/plus.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
